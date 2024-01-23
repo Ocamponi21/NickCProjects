@@ -1,6 +1,9 @@
-#include <stdio.h>
-#include <stdlib.h>
+// pre-processor directives 
+
+//include needed C and header files 
+#include "Basiclo.c"
 
 int main(void){
-    puts("Hello World!");
+    //output();
+    input();
 }
